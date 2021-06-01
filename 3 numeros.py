@@ -13,6 +13,9 @@ print("Maior: ",maior)
 
 menor = primeiro
 
+
+pri
+
 if (segundo < menor):
     menor = segundo
 if (terceiro <menor):
